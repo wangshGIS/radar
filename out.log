@@ -1,0 +1,9 @@
+Using TensorFlow backend.
+2019-01-08 13:12:10.082802: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+2019-01-08 13:13:56.405120: W tensorflow/core/framework/allocator.cc:122] Allocation of 4819219200 exceeds 10% of system memory.
+2019-01-08 13:13:57.938771: W tensorflow/core/framework/allocator.cc:122] Allocation of 4819219200 exceeds 10% of system memory.
+2019-01-08 13:14:20.608699: W tensorflow/core/framework/allocator.cc:122] Allocation of 4819219200 exceeds 10% of system memory.
+2019-01-08 13:14:21.404150: W tensorflow/core/framework/allocator.cc:122] Allocation of 4819219200 exceeds 10% of system memory.
+2019-01-08 13:14:25.737509: W tensorflow/core/framework/allocator.cc:122] Allocation of 4819219200 exceeds 10% of system memory.
+terminate called after throwing an instance of 'std::bad_alloc'
+  what():  std::bad_alloc
